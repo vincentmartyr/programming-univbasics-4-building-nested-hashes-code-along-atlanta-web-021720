@@ -36,7 +36,7 @@ def third_challenge
         :status => "alive"
         #your key/value pairs here
         },
-      :heroine_friends => []
+      :heroine_friends=>[]
    }
  }
 }
